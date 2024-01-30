@@ -5,4 +5,4 @@ Welcome to Reveille Rides! We are building the best native mobile app for the Te
 To report a bug or get support, open a new [issue](https://github.com/Reveille-Rides/ReveilleRides/issues/new).
 
 
-If you would like to join our beta test (iOS only currently), please join our [TestFlight](https://testflight.apple.com/join/Eg00e6rH).
+Download on the [App Store](https://apps.apple.com/us/app/reveille-rides/id6475358068)
