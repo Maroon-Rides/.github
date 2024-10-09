@@ -1,6 +1,6 @@
 # Maroon Rides
 
-![header image](https://github.com/Maroon-Rides/.github/assets/12686250/109cfacd-1c0d-4b2f-9d36-1fd082160b2f)
+![header image](https://github.com/user-attachments/assets/a8c39877-01be-4451-950e-9f311f9187ad)
 
 Welcome to Maroon Rides! We are building the best native mobile app for the Texas A&M University bus system.
 
